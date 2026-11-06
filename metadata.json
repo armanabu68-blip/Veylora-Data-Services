@@ -1,0 +1,6 @@
+{
+  "name": "Veylora Data Services",
+  "description": "High-Quality Data for a Smarter Tomorrow. Professional independent data services for AI, computer vision, and machine learning operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
